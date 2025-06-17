@@ -1,0 +1,15 @@
+Set 1 ITM Center Website Results, Compiled
+
+// Instead of submitting three separate files, I chose to submit one file with all results; please inform me if I should submit the video recordings of me getting these results as well.
+
+Number 1 Savings
+
+{"results": [{"expected": 5800, "actual": 5800, "correct?": true}, {"expected": 126876898, "actual": 126876898, "correct?": true}, {"expected": 6540232, "actual": 6540232, "correct?": true}, {"expected": 35700, "actual": 35700, "correct?": true}, {"expected": 17392374, "actual": 17392374, "correct?": true}], "max_score": 4, "actual_score": 4}
+
+Number 2 Material Waste
+
+{"results": [{"expected": "85kg", "actual": "85kg", "correct?": true}, {"expected": "1lbs", "actual": "1lbs", "correct?": true}, {"expected": "2units", "actual": "2units", "correct?": true}, {"expected": "0items", "actual": "0items", "correct?": true}, {"expected": "6oz", "actual": "6oz", "correct?": true}], "max_score": 4, "actual_score": 4}
+
+Number 3 Interest
+
+{"results": [{"expected": 13500, "actual": 13500, "correct?": true}, {"expected": 63343501, "actual": 63343501, "correct?": true}, {"expected": 111195332, "actual": 111195332, "correct?": true}, {"expected": 5450, "actual": 5450, "correct?": true}, {"expected": 15000, "actual": 15000, "correct?": true}], "max_score": 4, "actual_score": 4}
